@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d8a45b7470d58a84d95fe792ff5ac96a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectile: {instanceID: 0}
+  - shotpoint: {instanceID: 0}
+  - Blood: {fileID: 1135360063263380, guid: 6969d23b1415ffa42a435a682e979f27, type: 3}
+  - Bloodstain: {fileID: 1143314833321542, guid: e7865f5bb2382674dae0a7fccfd86566,
+      type: 3}
+  - fullHeart: {fileID: 21300002, guid: f08fb79fe7cff3a419b92ed9be8cddd9, type: 3}
+  - EmptyHeart: {fileID: 21300000, guid: f08fb79fe7cff3a419b92ed9be8cddd9, type: 3}
+  - ugh: {instanceID: 0}
+  - Diedmenu: {instanceID: 0}
+  - steps: {instanceID: 0}
+  - WaveText: {instanceID: 0}
+  - PauseMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

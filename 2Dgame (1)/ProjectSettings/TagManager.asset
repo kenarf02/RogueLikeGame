@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zombie
+  - SpawnPoint
+  - Hearts
+  - Barrett
+  - Wall
+  - Template
+  - Hole
+  - Acid
+  - Shop
+  - Bomb
+  - Ammorefillbox
+  - Doors
+  - DropItem
+  - BossSpawner
+  - Boss
+  - BossRoom
+  - StartRoom
+  - AccessCard
+  - Level
+  - Pose
+  - EngineerBullet
+  - Door
+  - Coin
+  - ArrowToCard
+  - Challenge
+  - Reward
+  - FinishExit
+  - Gas
+  - InroomLight
+  - SpinMachine
+  - Room
+  - Blow
+  - HealthRefill
+  - AmmoRefill
+  - BlowEngineer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Wall
+  - Enemy
+  - Room
+  - Tile
+  - BlinkingLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Top
+    uniqueID: 2426910771
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 518695923
+    locked: 0
+  - name: Environment
+    uniqueID: 1231786867
+    locked: 0

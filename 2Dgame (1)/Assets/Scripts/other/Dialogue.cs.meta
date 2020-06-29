@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0bfe794b2440357499ce3348ca670e4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - text: {instanceID: 0}
+  - otherSpeaker: {instanceID: 0}
+  - dialogui: {instanceID: 0}
+  - gameui: {instanceID: 0}
+  - beep: {fileID: 8300000, guid: eafe12014bc1ffb4cbbc206e150a95fa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

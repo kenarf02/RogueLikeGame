@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4607089054027127037
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5830537475641382257}
+  - component: {fileID: 7537470930590118764}
+  m_Layer: 11
+  m_Name: Zombiespawn
+  m_TagString: Zombie
+  m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5830537475641382257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4607089054027127037}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9, y: 9, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7537470930590118764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4607089054027127037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8951e80dac791419fbdc56113e6a94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 587491389772228734, guid: 5c1ec8e03c6b2d8468739611aecd37d7, type: 3}
+  - {fileID: 7610997972206210459, guid: a423e5ae6f6daa84ba0c90de423c04a9, type: 3}
+  - {fileID: 802008828049479745, guid: b7be0e8d46be68e4c8d49b77ff06b180, type: 3}
+  - {fileID: 587491389772228734, guid: 5c1ec8e03c6b2d8468739611aecd37d7, type: 3}
+  - {fileID: 7610997972206210459, guid: a423e5ae6f6daa84ba0c90de423c04a9, type: 3}
+  - {fileID: 4479601881017019039, guid: f36e8ac29b706d0498927a9024a925e5, type: 3}
+  - {fileID: 4479601881017019039, guid: f36e8ac29b706d0498927a9024a925e5, type: 3}
+  - {fileID: 4479601881017019039, guid: f36e8ac29b706d0498927a9024a925e5, type: 3}
+  - {fileID: 4557477838372265236, guid: 6574a911c6e992f4694a0212a2c25146, type: 3}
+  - {fileID: 4557477838372265236, guid: 6574a911c6e992f4694a0212a2c25146, type: 3}
+  isTile: 0
+  upB: 0
+  downB: 0
+  leftB: 0
+  rightB: 0
